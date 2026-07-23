@@ -1,0 +1,2 @@
+timestamp,action,price,quantity,realized_pnl,fee,strategy
+2026-07-22T22:31:41.027085+00:00,SHORT,65962.994762,0.15152438931575848,0.0,4.997501249375313,sma

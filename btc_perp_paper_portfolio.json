@@ -1,0 +1,12 @@
+{
+  "starting_balance": 10000.0,
+  "available_cash": 0.0,
+  "reserved_margin": 9995.002498750626,
+  "position": -1,
+  "entry_price": 65962.994762,
+  "quantity": 0.15152438931575848,
+  "realized_pnl": 0.0,
+  "fees_paid": 4.997501249375313,
+  "strategy": "sma",
+  "last_price": 66091.93
+}

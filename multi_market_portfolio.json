@@ -1,0 +1,23 @@
+{
+  "cash": 985.0,
+  "positions": {
+    "32338220190071351435772801779725302244575775216413325951443816017994629993401": {
+      "market_name": "Xi Jinping out before 2027?",
+      "outcome": "Yes",
+      "shares": 100.0,
+      "entry_price": 0.05
+    },
+    "54840717483866263964304723492966182979723045222316848733193673523986124053075": {
+      "market_name": "Will Graham Platner win the 2028 Democratic presidential nomination?",
+      "outcome": "Yes",
+      "shares": 1250.0,
+      "entry_price": 0.004
+    },
+    "102504892414163237174864879683522880588750452841477290216845150938663289742135": {
+      "market_name": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
+      "outcome": "Yes",
+      "shares": 1666.6666666666667,
+      "entry_price": 0.003
+    }
+  }
+}

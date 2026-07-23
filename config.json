@@ -1,0 +1,8 @@
+{
+  "paper_trading": {"starting_balance": 10000.0, "leverage": 1.0, "position_size_pct": 10.0, "maker_fee_bps": 5.0, "taker_fee_bps": 5.0, "slippage_bps": 2.0, "max_open_positions": 1},
+  "risk_management": {"enable_stop_loss": true, "stop_loss_pct": 1.0, "enable_take_profit": false, "take_profit_pct": 0.0, "enable_trailing_stop": false, "trailing_stop_pct": 0.0, "maximum_daily_loss": 0.0, "maximum_drawdown_pct": 0.0, "allow_long": true, "allow_short": true, "close_on_opposite_signal": true, "flip_positions_automatically": true},
+  "execution": {"poll_interval_seconds": 60, "order_type": "taker"},
+  "strategies": {"active_strategy": "sma", "sma": {"enabled": true, "fast_period": 12, "slow_period": 36}, "ema": {"enabled": false, "fast_period": 12, "slow_period": 26}, "momentum": {"enabled": true, "lookback": 12, "entry_threshold_pct": 0.0}, "breakout": {"enabled": true, "lookback": 24, "breakout_buffer_pct": 0.0}},
+  "backtest": {"initial_balance": 10000.0, "include_fees": true, "include_slippage": true, "candle_granularity_seconds": 3600, "window_days": 30},
+  "dashboard": {"refresh_interval_seconds": 5, "chart_history_length": 300, "default_chart_timeframe": "1h", "default_strategy_shown": "sma"}
+}

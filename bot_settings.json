@@ -1,0 +1,9 @@
+{
+  "market_count": 20,
+  "crypto_market_count": 20,
+  "max_trade_cost": 5.0,
+  "max_open_positions": 3,
+  "buy_below_or_equal_to": 0.05,
+  "take_profit_multiplier": 1.25,
+  "max_spread": 0.02
+}
