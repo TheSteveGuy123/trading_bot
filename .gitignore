@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Runtime files
+btc_perp_equity.csv
+btc_perp_paper_portfolio.json
+btc_perp_paper_trades.csv
+btc_perp_trade_history.csv
+btc_perp_backtests.json
